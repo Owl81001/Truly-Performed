@@ -6,7 +6,7 @@ A Quilt-based Minecraft modpack which focuses on performance with graphics enhan
 
 **About**
 
-Truly Optimized is an optimized modpack which focuses mostly on performance while having [Optifine-Parity features](https://lambdaurora.dev/optifine_alternatives/).
+Truly Optimized is an optimized modpack which focuses mostly on performance with a few QOL mods.
 **Performance**
 
 Truly Optimized and uses the best [optimisation mods](https://github.com/TheUsefulLists/UsefulMods) which will improve performance.
