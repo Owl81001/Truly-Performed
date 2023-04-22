@@ -5,7 +5,7 @@ A Quilt-based Minecraft modpack which focuses on performance with a little bit o
 
 **About**
 
-Truly Optimized is an optimized modpack which focuses mostly on performance while having few QOL mods.
+Truly Performed is an optimized modpack which focuses mostly on performance while having few QOL mods.
 
 **Performance**
 
@@ -31,9 +31,9 @@ Truly Performed will always be up to date with the current Minecraft version!
 
 Mods like Essential and Journey Map have been implemented!
 
-[![modrinth_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/modrinth_46h.png)](https://modrinth.com/modpack/trulyoptimized/)
+[![modrinth_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/modrinth_46h.png)](https://modrinth.com/modpack/trulyperformed/)
 
 
-[![github_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/github_46h.png)](https://github.com/Owl81001/Truly-Optimized)
+[![github_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/github_46h.png)](https://github.com/Owl81001/Truly-Performed)
 
 **- This project is heavily under alpha and is WIP.**
