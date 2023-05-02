@@ -5,11 +5,11 @@ A Quilt-based Minecraft modpack which focuses on performance with a little bit o
 
 **About**
 
-Truly Performed is an optimized modpack which focuses mostly on performance while having few QOL mods.
+Truly Optimized is an optimized modpack which focuses mostly on performance while having few QOL mods.
 
 **Performance**
 
-Truly Performed and uses the best [optimisation mods](https://github.com/TheUsefulLists/UsefulMods) which will improve performance.
+Truly Performed and uses the best [optimisation mods](https://github.com/TheUsefulLists/UsefulMods) which will improve performance. As a result of performace gain, there is a mod called [Methane](https://modrinth.com/mod/methane) which disables shadowmaps. If you want to play with shaders, please configure it in the config menu using Modmenu.
 
 **Compatibility**
 
@@ -30,6 +30,8 @@ Truly Performed will always be up to date with the current Minecraft version!
 **Quality Of Life**
 
 Mods like Essential and Journey Map have been implemented!
+
+**Check out my other modpack called [Truly Optimized](https://modrinth.com/modpack/trulyoptimized/) Its for perfomance with optifine parity feature users!**
 
 [![modrinth_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/modrinth_46h.png)](https://modrinth.com/modpack/trulyperformed/)
 
