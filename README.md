@@ -9,8 +9,7 @@ Truly Optimized is an optimized modpack which focuses mostly on performance whil
 
 **Performance**
 
-Truly Performed and uses the best [optimisation mods](https://github.com/TheUsefulLists/UsefulMods) which will improve performance. As a result of performace gain, there is a mod called [Methane](https://modrinth.com/mod/methane) which disables shadowmaps. If you want to play with shaders, please configure it in the config menu using Modmenu.
-
+Truly Performed and uses the best [optimisation mods](https://github.com/TheUsefulLists/UsefulMods) which will improve performance.
 **Compatibility**
 
 Truly Performed contains no content mods and is fully client-side, where you can join any server!
