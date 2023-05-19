@@ -1,35 +1,44 @@
-# Truly-Performed
-A Quilt-based Minecraft modpack which focuses on performance of minecraft with no QOL mods!
+# About
 
-**About**
+Truly Performed is an optimized Minecraft modpack designed to maximize performance. Built on the Quilt mod loader, we offer a streamlined and modern modding toolchain with an open ecosystem. The modpack does not include content mods, making it fully client-side and compatible with any Minecraft server.
 
-Truly Optimized is an optimized modpack which focuses on performance only.
+## Benefits
 
-**Performance**
+Truly Performed offers significant benefits for Minecraft players, including:
 
-Truly Performed uses the best [optimisation mods](https://github.com/TheUsefulLists/UsefulMods) which provide best performance possible. They have further been tweaked for xtream performance and speed!
++ **Improved gameplay**
++ **Faster load times**
++ **Reduced lag**
++ **Increased FPS**
 
-**Compatibility**
+By using the most effective optimization mods on the market, Truly Performed provides unmatched performance optimization.
 
-Truly Performed contains no content mods and is fully client-sided which allows you to join any server!
+## Optimization Mods
 
-**Tweaks**
+Truly Performed uses a **[range of optimization mods](https://github.com/TheUsefulLists/UsefulMods)** to maximize Minecraft performance, including:
 
-Truly Performed has pre-set tweaks which allows you to maximize performance and play without any necessary changes.
++ **Sodium**
++ **Lithium**
++ **Starlight**
 
-**Built on Quilt**
+These mods have been tested and optimized to ensure that Minecraft runs at maximum performance and speed.
 
-[Quilt](https://quiltmc.org/en/) is a new mod-loader that is an open-source, community-driven modding toolchain designed primarily for Minecraft. By focusing on speed, ease of use, and modularity, Quilt aims to provide a sleek and modern modding toolchain with an open ecosystem.
+## Tweaks
 
-**Quick Updates**
+Truly Performed includes preset tweaks designed to maximize performance and gameplay without any additional configuration needed. These tweaks optimize various hardware configurations, ensuring that players get the best possible performance without having to make any changes themselves.
 
-Truly Performed will be kept up to-date and will have quick updates.
+## Quilt Mod Loader
 
-**Check out my other modpack called [Truly Optimized](https://modrinth.com/modpack/trulyoptimized/) Its for perfomance with optifine parity feature users!**
+Truly Performed is built on the **[Quilt Mod Loader](https://quiltmc.org/en/)**, which provides a streamlined and modern modding toolchain with an open ecosystem. Quilt focuses on speed, usability, and modularity, making it the perfect choice for an optimized modpack like Truly Performed.
 
-[![modrinth_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/modrinth_46h.png)](https://modrinth.com/modpack/trulyperformed/)
+## Fast Updates
 
+Truly Performed is regularly updated to ensure that it is always up-to-date and provides the best possible performance. These updates are fast, so players can be sure that they will always have access to the latest Minecraft optimizations.
 
-[![github_46h.png](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/available/github_46h.png)](https://github.com/Owl81001/Truly-Performed)
+## Truly Optimized
 
-**- This project is heavily under alpha and is WIP.**
+Check out **[Truly Optimized](https://modrinth.com/modpack/trulyoptimized/)**, our other modpack designed for users of optimization optifine parity feature. Truly Optimized offers performance optimizations with quality of life features for players looking to maximize their Minecraft experience.
+
+##  Alpha Phase
+
+Truly Performed is currently in the alpha phase, so feedback from users is greatly appreciated as we continue to develop and improve the modpack. Thank you for trying out Truly Performed and helping us make it the best it can be!
